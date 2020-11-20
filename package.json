@@ -1,5 +1,5 @@
 {
-  "name": "Sroi",
+  "name": "sroiv1.0.0",
   "version": "1.0.0",
   "description": "Sends a random thing on internet There are currently Google Images and reddit!",
   "main": "src/index.js",
