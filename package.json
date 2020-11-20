@@ -28,4 +28,6 @@
     "url": "https://github.com/zedxos/sroiv1.0.0/issues"
   },
   "homepage": "https://github.com/zedxos/sroiv1.0.0#readme"
+},
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
